@@ -10,7 +10,7 @@
         <li>🎯 Specializing in <b>AI-powered Software Testing.</b></li>
         <li>🏗 <b>Investigating Novel Approaches.</b></li>
       </ul>
-      <h2>🤝 Connect with Me</h2>
+      <h4>🤝 Connect with Me</h4>
       <p>
         <a href="https://www.linkedin.com/in/shifatsahariar/" target="_blank">
           <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
@@ -39,10 +39,22 @@
       </p>
       <h2>🎓 Teaching</h2>
       <p><b>Assisting in the following courses at Università della Svizzera italiana (USI):</b></p>
-      <ul>
-        <li>📘 <b>Advanced Java Programming</b> – Dynamic Program Analysis,JVM Profiling </li>
-        <li>📘 <b>Data Structures & Algorithms</b> – Complexity Analysis, DS + Algorithms</li>
-      </ul>
+      <ol>
+  <li>
+    📘 <b>Advanced Java Programming</b>
+    <ul>
+      <li>Dynamic Program Analysis</li>
+      <li>JVM Profiling</li>
+    </ul>
+  </li>
+  <li>
+    📘 <b>Data Structures & Algorithms</b>
+    <ul>
+      <li>Complexity Analysis</li>
+      <li>DS + Algorithms</li>
+    </ul>
+  </li>
+</ol>
     </td>
   </tr>
 </table>
