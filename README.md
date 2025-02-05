@@ -2,9 +2,7 @@
   <tr>
     <!-- Left Side: Intro Section -->
     <td style="vertical-align: top; width: 50%;">
-      <a href="https://github.com/Ryo-samuraiJP/readme-typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=900&height=60&lines=Hi+there!+I+am+Ryoichi+(Rio)+Homma%E2%9A%BE;Your+future+favorite...;Software+Engineer+and+Web+Developer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-      </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DD0C&width=435&lines=PhD+Researcher+in+Computer+Science;Software+Testing+Automation;%F0%9F%A4%96+Artificial+Intelligence" alt="Typing SVG" /></a>
       
   - 🙋🏻‍♂️ Aspiring Software Engineer/Developer based in 🇨🇭 ⚠️<strong>AVAILABLE IMMEDIATELY!</strong>⚠️
     
@@ -69,51 +67,36 @@
 
 ### 🛠️ AI & Deep Learning Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) -->
 ![OpenAI](https://img.shields.io/badge/OpenAI-%2346A7F7.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD700.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-%23000000.svg?style=for-the-badge&logo=deepseek&logoColor=white)
 
 ---
 
-### 🔬 Clustering & Statistical Analysis
-![K-Means](https://img.shields.io/badge/K%20Means-%231E88E5.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![GMM](https://img.shields.io/badge/Gaussian%20Mixture%20Model-%23F44336.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Random Projection](https://img.shields.io/badge/Random%20Projection-%236D4C41.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![PCA](https://img.shields.io/badge/Principal%20Component%20Analysis-%23FF9800.svg?style=for-the-badge&logo=scipy&logoColor=white)
-
----
 
 ### 🧪 Software Testing & CI/CD Automation
 ![PIT Mutation](https://img.shields.io/badge/PIT%20Mutation-%23104A77.svg?style=for-the-badge&logo=data:image/svg+xml;base64,...)
+![Major Mutation](https://img.shields.io/badge/Major%20Mutation-%23FF5733.svg?style=for-the-badge&logo=data:image/svg+xml;base64,...)
 ![JaCoCo](https://img.shields.io/badge/JaCoCo-Coverage-%23FF4081.svg?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
 ### 🔤 Programming Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
 ### ☁️ Databases & Cloud Computing
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%230053D6.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
 ### ⚙️ Other Tools
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Diagrams.net](https://img.shields.io/badge/Diagrams.net-%23F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Lucidchart](https://img.shields.io/badge/Lucidchart-%23F96B13.svg?style=for-the-badge&logo=lucidchart&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
