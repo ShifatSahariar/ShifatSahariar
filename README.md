@@ -76,36 +76,13 @@
 
 ---
 
-### 🛠️ AI & Deep Learning Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) -->
-![OpenAI](https://img.shields.io/badge/OpenAI-%2346A7F7.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD700.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-%23000000.svg?style=for-the-badge&logo=deepseek&logoColor=white)
+<h3>🧠 AI & Machine Learning</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="LLMs"> <img src="https://img.shields.io/badge/GenAI-Generative%20AI-%2346A7F7.svg?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI"> <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-%23FFD700.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="NLP"> <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-%23000000.svg?style=for-the-badge&logo=deepseek&logoColor=white" alt="Deep Learning"> </div>
+<h3>🛠️ AI Frameworks & Tools</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/OpenAI-API%20&%20Models-%2346A7F7.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"> <img src="https://img.shields.io/badge/Hugging%20Face-Transformers%20&%20Datasets-%23FFD700.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"> <img src="https://img.shields.io/badge/DeepSeek-AI%20Research-%23000000.svg?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"> </div>
+<h3>📊 Data Science & Analytics</h3>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://img.shields.io/badge/Data%20Analysis-Exploratory%20&%20Statistical-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis"> <img src="https://img.shields.io/badge/Machine%20Learning-Algorithms%20&%20Models-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"> <img src="https://img.shields.io/badge/Data%20Visualization-Insights%20&%20Reporting-%23FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Visualization"> </div>
 
-<h3>🛠️ AI & Deep Learning Frameworks</h3>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/OpenAI-%2346A7F7.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD700.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/DeepSeek-%23000000.svg?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek">
-</div>
-
-<hr>
-
-<h4>Focus Areas</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <span class="badge" style="background-color: #4285F4; color: white; padding: 5px 10px; border-radius: 5px;">Deep Learning</span>
-  <span class="badge" style="background-color: #34A853; color: white; padding: 5px 10px; border-radius: 5px;">Generative AI</span>
-  <span class="badge" style="background-color: #FBBC05; color: white; padding: 5px 10px; border-radius: 5px;">Large Language Models (LLMs)</span>
-</div>
-
-<style>
-.badge {
-  font-weight: bold; /* Optional: Make the text bolder */
-}
-</style>
 ---
 
 
