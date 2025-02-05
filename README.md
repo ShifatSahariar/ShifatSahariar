@@ -83,6 +83,29 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD700.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-%23000000.svg?style=for-the-badge&logo=deepseek&logoColor=white)
 
+<h3>🛠️ AI & Deep Learning Frameworks</h3>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/OpenAI-%2346A7F7.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD700.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/DeepSeek-%23000000.svg?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek">
+</div>
+
+<hr>
+
+<h4>Focus Areas</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <span class="badge" style="background-color: #4285F4; color: white; padding: 5px 10px; border-radius: 5px;">Deep Learning</span>
+  <span class="badge" style="background-color: #34A853; color: white; padding: 5px 10px; border-radius: 5px;">Generative AI</span>
+  <span class="badge" style="background-color: #FBBC05; color: white; padding: 5px 10px; border-radius: 5px;">Large Language Models (LLMs)</span>
+</div>
+
+<style>
+.badge {
+  font-weight: bold; /* Optional: Make the text bolder */
+}
+</style>
 ---
 
 
