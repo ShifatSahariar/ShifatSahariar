@@ -7,8 +7,8 @@
       </a>
       <h2>🧑‍🔬 PhD Researcher 🇨🇭 </h2>
       <ul>
-        <li>🎯 Specializing in <b>AI-powered software testing</b></li>
-        <li>🏗 <b>Investigating AI-driven Automated test generation</b></li>
+        <li>🎯 Specializing in <b>AI-powered Software Testing.</b></li>
+        <li>🏗 <b>Investigating Novel Approaches.</b></li>
       </ul>
       <h2>🤝 Connect with Me</h2>
       <p>
