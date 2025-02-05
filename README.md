@@ -25,13 +25,12 @@
     </td>
     <!-- Right Side: Stats Cards -->
     <td style="vertical-align: top; width: 40%;">
-      <h2>Core Specialization:</h2>
-      ### 🤖 Artificial Intelligence & Software Testing Automation
-    ![Contrastive Learning](https://img.shields.io/badge/Contrastive%20Learning-%234CAF50.svg?style=for-the-badge&logo=ai&logoColor=white)
-    ![Test Case Generation](https://img.shields.io/badge/Test%20Case%20Generation-%23FF5733.svg?style=for-the-badge&logo=testinglibrary&logoColor=white)
-    ![Mutation Testing](https://img.shields.io/badge/Mutation%20Testing-%23FF4081.svg?style=for-the-badge&logo=data:image/svg+xml;base64,...)
-    ![Fault Localization](https://img.shields.io/badge/Fault%20Localization-%230A74DA.svg?style=for-the-badge&logo=logseq&logoColor=white)
-    ![Automated Test Execution](https://img.shields.io/badge/Automated%20Test%20Execution-%23E4405F.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+      <h2>Core Specialization</h2>
+      <img src="https://img.shields.io/badge/Contrastive%20Learning-%234CAF50.svg?style=for-the-badge&logo=ai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Test%20Case%20Generation-%23FF5733.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mutation%20Testing-%23FF4081.svg?style=for-the-badge&logo=data:image/svg+xml;base64,..." />
+      <img src="https://img.shields.io/badge/Fault%20Localization-%230A74DA.svg?style=for-the-badge&logo=logseq&logoColor=white" />
+      <img src="https://img.shields.io/badge/Automated%20Test%20Execution-%23E4405F.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
     </td>
   </tr>
 </table>
