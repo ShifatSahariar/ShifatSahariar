@@ -5,12 +5,10 @@
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DD0C&vCenter=true&width=435&lines=PhD+Researcher+in+Computer+Science;Software+Testing+Automation;%F0%9F%A4%96+Artificial+Intelligence" alt="Typing SVG" />
       </a>
-      <h2>🧑‍🔬 PhD Researcher</h2>
+      <h2>🧑‍🔬 PhD Researcher 🇨🇭 </h2>
       <ul>
         <li>🎯 <b>PhD Researcher in Computer Science</b> specializing in <b>AI-powered software testing</b></li>
         <li>🏗 <b>Developing AI-driven test generation and program repair techniques</b></li>
-        <li>🤖 <b>Working on Deep Learning, Contrastive Learning, and Generative AI for fault detection</b></li>
-        <li>🏛 <b>Teaching Assistant in Advanced Java Programming, Data Structure & Algorithm</b></li>
       </ul>
       <h2>🤝 Connect with Me</h2>
       <p>
@@ -33,22 +31,18 @@
       <h2>🏆 Core Specialization</h2>
       <p>
         <img src="https://img.shields.io/badge/Contrastive%20Learning-%234CAF50.svg?style=for-the-badge&logo=ai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Test%20Case%20Generation-%23FF5733.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-        <img src="https://img.shields.io/badge/Mutation%20Testing-%23FF4081.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+        <img src="https://img.shields.io/badge/Test%20Case%20Generation-%23FF5733.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" /> 
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Fault%20Localization-%230A74DA.svg?style=for-the-badge&logo=logseq&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automated%20Test%20Execution-%23E4405F.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mutation%20Testing-%23FF4081.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+        <img src="https://img.shields.io/badge/Fault%20Localization-%230A74DA.svg?style=for-the-badge&logo=logseq&logoColor=white" />     
       </p>
       <h2>🎓 Teaching</h2>
-      <p>
-        📘 **Advanced Java Programming**  
-        *Object-Oriented Programming, Streams, Concurrency, JVM Profiling*  
-      </p>
-      <p>
-        📘 **Data Structures & Algorithms**  
-        *Graph Algorithms, Dynamic Programming, Complexity Analysis*  
-      </p>
+      <p><b>Assisting in the following courses at Università della Svizzera italiana (USI):</b></p>
+      <ul>
+        <li>📘 <b>Advanced Java Programming</b> – Dynamic Program Analysis,JVM Profiling </li>
+        <li>📘 <b>Data Structures & Algorithms</b> – Complexity Analysis, DS + Algorithms</li>
+      </ul>
     </td>
   </tr>
 </table>
