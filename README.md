@@ -76,14 +76,8 @@
 ![XML](https://img.shields.io/badge/XML%20-%20?style=for-the-badge&logo=xml&logoSize=auto&color=005FAD)
 -->
 
-### 📚 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB&logoSize=auto)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E&logoSize=auto)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&logoSize=auto)
-![Framer Motion](https://custom-icon-badges.demolab.com/badge/Framer%20Motion-fff?style=for-the-badge&logo=framermotion&logoSize=auto)
-![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&logoSize=auto)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
+### 🤖 Artificial Intelligence
+![Pytorch]([https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB&logoSize=auto](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white))
 
 <!--
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoSize=auto)
