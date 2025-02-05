@@ -16,7 +16,7 @@
           <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
         </a>
         <a href="https://www.youtube.com/@ShifatSahariar" target="_blank">
-          <img src="https://skillicons.dev/icons?i=youtube" height="40" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" height="40" />
         </a>
         <a href="https://discord.com/users/ShifatSahariar" target="_blank">
           <img src="https://skillicons.dev/icons?i=discord" height="40" />
