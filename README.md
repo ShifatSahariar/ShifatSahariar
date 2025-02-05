@@ -6,7 +6,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=900&height=60&lines=Hi+there!+I+am+Ryoichi+(Rio)+Homma%E2%9A%BE;Your+future+favorite...;Software+Engineer+and+Web+Developer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
       </a>
       
-  - 🙋🏻‍♂️ Aspiring Software Engineer/Developer based in 🇨🇦 ⚠️<strong>AVAILABLE IMMEDIATELY!</strong>⚠️
+  - 🙋🏻‍♂️ Aspiring Software Engineer/Developer based in 🇨🇭 ⚠️<strong>AVAILABLE IMMEDIATELY!</strong>⚠️
     
   - 💼 Experienced in AI Training (LLM Evaluation).
 
@@ -65,14 +65,8 @@
 
 <!-- TECK STACK -->
 ### 🔤 Programming Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-%20?style=for-the-badge&logo=TypeScript&logoColor=FFF&color=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoSize=auto)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873&logoSize=auto)
-![SQL](https://custom-icon-badges.demolab.com/badge/SQL-FF1493.svg?style=for-the-badge&logo=database&logoColor=white&logoSize=auto)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=auto)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoSize=auto)
-![UML](https://img.shields.io/badge/UML%20-%20?style=for-the-badge&logo=UML&logoColor=FABD14&labelColor=fff&color=FABD14)
 
 <!--
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-5382A1.svg?style=for-the-badge&logo=java&logoColor=F89820&logoSize=auto)
