@@ -43,15 +43,13 @@
   <li>
     📘 <b>Advanced Java Programming</b>
     <ul>
-      <li>Dynamic Program Analysis</li>
-      <li>JVM Profiling</li>
+      <li>Dynamic Analysis, JVM Profiling</li>
     </ul>
   </li>
   <li>
     📘 <b>Data Structures & Algorithms</b>
     <ul>
-      <li>Complexity Analysis</li>
-      <li>DS + Algorithms</li>
+      <li>Complexity Analysis,Algorithms</li>
     </ul>
   </li>
 </ol>
