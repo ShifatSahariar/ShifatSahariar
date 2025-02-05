@@ -56,77 +56,64 @@
 - 🎓 2024 Computer Science graduate from Thompson Rivers University in Kamloops, BC.
 - 🌐 Check out my <a href="https://ryoichihomma.me/">Portfolio</a> and <a href="https://drive.usercontent.google.com/u/0/uc?id=1Wk5cGEU3aXp3dOkvNZLTQdxVSA4acMRe&export=download">Resume</a>!
 
-### 🔗 Connect with me
-<code>[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryoichihomma/)</code>
-<code>[![DEV](https://skillicons.dev/icons?i=devto)](https://dev.to/ryoichihomma)</code>
-<code>[![YouTube](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/channel/UC7f92Y8DjOY1r8gL0Blt0gQ)</code>
-<code>[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1233363421207199827/)</code>
-<code>[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:r.homma.inbox@gmail.com)</code>
 
-<!-- TECK STACK -->
+<!-- RESEARCH FOCUS & TECH STACK -->
+### 🤖 Artificial Intelligence & Software Testing Automation
+![Contrastive Learning](https://img.shields.io/badge/Contrastive%20Learning-%234CAF50.svg?style=for-the-badge&logo=ai&logoColor=white)
+![Test Case Generation](https://img.shields.io/badge/Test%20Case%20Generation-%23FF5733.svg?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Mutation Testing](https://img.shields.io/badge/Mutation%20Testing-%23FF4081.svg?style=for-the-badge&logo=data:image/svg+xml;base64,...)
+![Fault Localization](https://img.shields.io/badge/Fault%20Localization-%230A74DA.svg?style=for-the-badge&logo=logseq&logoColor=white)
+![Automated Test Execution](https://img.shields.io/badge/Automated%20Test%20Execution-%23E4405F.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### 🛠️ AI & Deep Learning Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%2346A7F7.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD700.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
+
+### 🔬 Clustering & Statistical Analysis
+![K-Means](https://img.shields.io/badge/K%20Means-%231E88E5.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![GMM](https://img.shields.io/badge/Gaussian%20Mixture%20Model-%23F44336.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Random Projection](https://img.shields.io/badge/Random%20Projection-%236D4C41.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![PCA](https://img.shields.io/badge/Principal%20Component%20Analysis-%23FF9800.svg?style=for-the-badge&logo=scipy&logoColor=white)
+
+---
+
+### 🧪 Software Testing & CI/CD Automation
+![PIT Mutation](https://img.shields.io/badge/PIT%20Mutation-%23104A77.svg?style=for-the-badge&logo=data:image/svg+xml;base64,...)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-Coverage-%23FF4081.svg?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
 ### 🔤 Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873&logoSize=auto)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
-<!--
-![Java](https://custom-icon-badges.demolab.com/badge/Java-5382A1.svg?style=for-the-badge&logo=java&logoColor=F89820&logoSize=auto)
-![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white&logoSize=auto)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?style=for-the-badge&logo=cs2&logoColor=white&logoSize=auto)
-![EJS](https://img.shields.io/badge/EJS%20-%20?style=for-the-badge&logo=EJS&logoColor=black&logoSize=auto&color=B4CA65)
-![XML](https://img.shields.io/badge/XML%20-%20?style=for-the-badge&logo=xml&logoSize=auto&color=005FAD)
--->
+---
 
-### 🤖 Artificial Intelligence
-![Pytorch]([https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB&logoSize=auto](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white))
+### ☁️ Databases & Cloud Computing
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%230053D6.svg?style=for-the-badge&logo=render&logoColor=white)
 
-<!--
-![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoSize=auto)
-![Axios](https://img.shields.io/badge/Axios%20-%20?style=for-the-badge&logo=Axios&color=%235A29E4)
-![Dotenv](https://img.shields.io/badge/Dotenv%20-%20?style=for-the-badge&logo=Dotenv&color=000)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form%20-%20?style=for-the-badge&logo=React-Hook-Form&logoColor=FFF&color=EC5990)
-![Zod](https://img.shields.io/badge/Zod%20-%20?style=for-the-badge&logo=Zod&color=3E67B1)
-![EmailJS](https://custom-icon-badges.demolab.com/badge/EmailJS-ff8434?style=for-the-badge&logo=emailjs&logoSize=auto&labelColor=F3F3F3)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&logoSize=auto)
--->
-
-### ☁️ Databases & Cloud Hosting
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
-![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&logoSize=auto)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoSize=auto)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=00C7B7&logoSize=auto&labelColor=grey)
-![Render](https://img.shields.io/badge/Render-F3F3F3?style=for-the-badge&logo=render&logoColor=black&logoSize=auto)
+---
 
 ### ⚙️ Other Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=auto)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&logoSize=auto)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20actions&logoColor=white&logoSize=auto)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto)
-![diagrams.net](https://img.shields.io/badge/diagrams.net-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white&logoSize=auto)
-![Lucidchart](https://custom-icon-badges.demolab.com/badge/Lucidchart-f96b13?style=for-the-badge&logo=lucidchart&logoSize=auto&labelColor=F3F3F3)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoSize=auto&labelColor=grey)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Diagrams.net](https://img.shields.io/badge/Diagrams.net-%23F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-%23F96B13.svg?style=for-the-badge&logo=lucidchart&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
-#
-
-<!-- PROJECT -->
-### ▶️ YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA#gh-dark-mode-only)[![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA#gh-light-mode-only)
-[![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI#gh-dark-mode-only)[![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI#gh-light-mode-only)
-[![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE#gh-dark-mode-only)[![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE#gh-light-mode-only)
-<!-- END YOUTUBE-CARDS -->
-
-#
-
-<!-- CONTRIBUTION -->
-### 📈 Contributions
-![Contribution Graph](https://github-readme-activity-graph-woad.vercel.app/graph/?username=Ryo-samuraiJP&theme=react-dark)
-![3D Stats](./profile-3d-contrib/profile-night-rainbow.svg)
-<b>Note:</b> These languages are only metrics of the languages based on their commit volume.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryo-samuraiJP/Ryo-samuraiJP/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryo-samuraiJP/Ryo-samuraiJP/output/github-contribution-grid-snake.gif">
-  <img alt="Contribution Animation" src="https://raw.githubusercontent.com/Ryo-samuraiJP/Ryo-samuraiJP/output/github-contribution-grid-snake.gif">
-</picture>
