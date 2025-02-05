@@ -5,9 +5,6 @@
       <a href="https://github.com/Ryo-samuraiJP/readme-typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=900&height=60&lines=Hi+there!+I+am+Ryoichi+(Rio)+Homma%E2%9A%BE;Your+future+favorite...;Software+Engineer+and+Web+Developer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
       </a>
-      <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=Ryo-samuraiJP&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
-      </a>
       
   - 🙋🏻‍♂️ Aspiring Software Engineer/Developer based in 🇨🇦 ⚠️<strong>AVAILABLE IMMEDIATELY!</strong>⚠️
     
@@ -24,19 +21,16 @@
   - 🌐 Check out my <a href="https://ryoichihomma.me/"><strong>Portfolio</strong></a> and <a href="https://drive.google.com/file/d/1DMZ0mVRVvBUVzfErqPCyNCk7CckQA5G3/view?usp=sharing"><strong>Resume</strong></a> !
 
 <h2>🤝 Connect with me</h2>
-      <a href="https://www.linkedin.com/in/ryoichihomma/" >
+      <a href="https://www.linkedin.com/in/shifatsahariar/" >
         <code><img src="https://skillicons.dev/icons?i=linkedin" /></code>
-      </a>
-      <a href="https://dev.to/ryoichihomma" >
-        <code><img src="https://skillicons.dev/icons?i=devto" /></code>
-      </a>  
-      <a href="https://www.youtube.com/@rh.project_gallery" >
+      </a> 
+      <a href="https://www.youtube.com/@ShifatSahariar" >
         <code><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" /></code>
       </a>
-      <a href="https://discord.com/users/1233363421207199827" >
+      <a href="https://discord.com/users/ShifatSahariar" >
         <code><img src="https://skillicons.dev/icons?i=discord" /></code>
       </a>
-      <a href="mailto:r.homma.inbox@gmail.com" >
+      <a href="mailto:shifat.sahariar@gmail.com" >
         <code><img src="https://skillicons.dev/icons?i=gmail" /></code>
       </a>
     </td>
