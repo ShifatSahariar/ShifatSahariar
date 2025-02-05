@@ -2,7 +2,7 @@
   <tr>
     <!-- Left Side: Intro Section -->
     <td style="vertical-align: top; width: 50%;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DD0C&width=435&lines=PhD+Researcher+in+Computer+Science;Software+Testing+Automation;%F0%9F%A4%96+Artificial+Intelligence" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DD0C&vCenter=true&width=435&lines=PhD+Researcher+in+Computer+Science;Software+Testing+Automation;%F0%9F%A4%96+Artificial+Intelligence" alt="Typing SVG" /></a>
       
   - 🙋🏻‍♂️ Aspiring Software Engineer/Developer based in 🇨🇭 ⚠️<strong>AVAILABLE IMMEDIATELY!</strong>⚠️
     
