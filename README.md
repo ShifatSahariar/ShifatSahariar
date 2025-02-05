@@ -1,22 +1,13 @@
 <table>
   <tr>
     <!-- Left Side: Intro Section -->
-    <td style="vertical-align: top; width: 50%;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DD0C&vCenter=true&width=435&lines=PhD+Researcher+in+Computer+Science;Software+Testing+Automation;%F0%9F%A4%96+Artificial+Intelligence" alt="Typing SVG" /></a>
+    <td style="vertical-align: top; width: 60%;">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DD0C&vCenter=true&width=435&lines=PhD+Researcher+in+Computer+Science;Software+Testing+Automation;%F0%9F%A4%96+Artificial+Intelligence" alt="Typing SVG" /></a>
       
-  - 🙋🏻‍♂️ Aspiring Software Engineer/Developer based in 🇨🇭 ⚠️<strong>AVAILABLE IMMEDIATELY!</strong>⚠️
-    
-  - 💼 Experienced in AI Training (LLM Evaluation).
-
-  - 💻 Proficient in front-end development using React, JavaScript, TypeScript, and Tailwind CSS.
-  
-  - 🌱 Continuously enhancing front-end skills and expanding into MERN stack.
-
-  - ⚾ Interested in sports science and baseball data analysis.
-  
-  - 🎓 Recent CS graduate in BC, with 3 years of PGWP starting from Dec 2024.
-  
-  - 🌐 Check out my <a href="https://ryoichihomma.me/"><strong>Portfolio</strong></a> and <a href="https://drive.google.com/file/d/1DMZ0mVRVvBUVzfErqPCyNCk7CckQA5G3/view?usp=sharing"><strong>Resume</strong></a> !
+- 🎯 **PhD Researcher in Computer Science** specializing in **AI-powered software testing**  
+- 🏗 **Developing AI-driven test generation and program repair techniques**  
+- 🤖 **Working on Deep Learning, Contrastive Learning, and Generative AI for fault detection**  
+- 🏛 **Teaching Assistant in Advanced Java Programming, Data Structure & Algorithm**  
 
 <h2>🤝 Connect with me</h2>
       <a href="https://www.linkedin.com/in/shifatsahariar/" >
@@ -33,10 +24,14 @@
       </a>
     </td>
     <!-- Right Side: Stats Cards -->
-    <td style="vertical-align: top; width: 50%;">
-      <img src="https://github-readme-stats-8zeb.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi" width="100%" />
-      <img src="https://github-readme-streak-stats2-blush.vercel.app/?user=Ryo-samuraiJP&theme=holi-theme" width="100%" />
-      <img src="https://github-readme-stats-8zeb.vercel.app/api/top-langs/?username=Ryo-samuraiJP&layout=compact&theme=holi&langs_count=20&hide=tex" />
+    <td style="vertical-align: top; width: 40%;">
+      <h2>Core Specialization:</h2>
+      ### 🤖 Artificial Intelligence & Software Testing Automation
+    ![Contrastive Learning](https://img.shields.io/badge/Contrastive%20Learning-%234CAF50.svg?style=for-the-badge&logo=ai&logoColor=white)
+    ![Test Case Generation](https://img.shields.io/badge/Test%20Case%20Generation-%23FF5733.svg?style=for-the-badge&logo=testinglibrary&logoColor=white)
+    ![Mutation Testing](https://img.shields.io/badge/Mutation%20Testing-%23FF4081.svg?style=for-the-badge&logo=data:image/svg+xml;base64,...)
+    ![Fault Localization](https://img.shields.io/badge/Fault%20Localization-%230A74DA.svg?style=for-the-badge&logo=logseq&logoColor=white)
+    ![Automated Test Execution](https://img.shields.io/badge/Automated%20Test%20Execution-%23E4405F.svg?style=for-the-badge&logo=githubactions&logoColor=white)
     </td>
   </tr>
 </table>
@@ -56,12 +51,6 @@
 
 
 <!-- RESEARCH FOCUS & TECH STACK -->
-### 🤖 Artificial Intelligence & Software Testing Automation
-![Contrastive Learning](https://img.shields.io/badge/Contrastive%20Learning-%234CAF50.svg?style=for-the-badge&logo=ai&logoColor=white)
-![Test Case Generation](https://img.shields.io/badge/Test%20Case%20Generation-%23FF5733.svg?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Mutation Testing](https://img.shields.io/badge/Mutation%20Testing-%23FF4081.svg?style=for-the-badge&logo=data:image/svg+xml;base64,...)
-![Fault Localization](https://img.shields.io/badge/Fault%20Localization-%230A74DA.svg?style=for-the-badge&logo=logseq&logoColor=white)
-![Automated Test Execution](https://img.shields.io/badge/Automated%20Test%20Execution-%23E4405F.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
