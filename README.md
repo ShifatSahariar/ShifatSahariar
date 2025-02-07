@@ -6,22 +6,16 @@
       </a>
     </td>
     <td style="vertical-align: top; width: 50%; text-align: right;">
-      <h4>🤝 Connect with Me</h4>
-      <p>
-        <a href="https://www.linkedin.com/in/shifatsahariar/" target="_blank">
-          <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-        </a>
-        <a href="https://www.youtube.com/@ShifatSahariar" target="_blank">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" height="40" />
-        </a>
-        <a href="https://discord.com/users/ShifatSahariar" target="_blank">
-          <img src="https://skillicons.dev/icons?i=discord" height="40" />
-        </a>
-        <a href="mailto:shifat.sahariar@gmail.com">
-          <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-        </a>
-      </p>
-    </td>
+  <h4>Explore About Me</h4>  <p style="display: flex; justify-content: flex-end;"> <a href="https://www.linkedin.com/in/shifatsahariar/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="30" />  </a>
+    <a href="https://www.youtube.com/@ShifatSahariar" target="_blank">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" height="30" />  </a>
+    <a href="https://discord.com/users/ShifatSahariar" target="_blank">
+      <img src="https://skillicons.dev/icons?i=discord" height="30" />  </a>
+    <a href="mailto:shifat.sahariar@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" height="30" />  </a>
+  </p>
+</td>
   </tr>
   <tr>
     <td colspan="2">
