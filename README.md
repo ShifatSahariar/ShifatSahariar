@@ -1,15 +1,11 @@
 <table>
   <tr>
-    <!-- Left Side: More Space for Bio & Connect Section -->
-    <td style="vertical-align: top; width: 70%;">
+    <td style="vertical-align: top; width: 50%;">
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DD0C&vCenter=true&width=435&lines=PhD+Researcher+in+Computer+Science;Software+Testing+Automation;%F0%9F%A4%96+Artificial+Intelligence" alt="Typing SVG" />
       </a>
-      <h2>🧑‍🔬 PhD Researcher 🇨🇭 </h2>
-      <ul>
-        <li>🎯 Specializing in <b>AI-powered Software Testing.</b></li>
-        <li>🏗 <b>Investigating Novel Approaches.</b></li>
-      </ul>
+    </td>
+    <td style="vertical-align: top; width: 50%; text-align: right;">
       <h4>🤝 Connect with Me</h4>
       <p>
         <a href="https://www.linkedin.com/in/shifatsahariar/" target="_blank">
@@ -26,33 +22,49 @@
         </a>
       </p>
     </td>
-    <!-- Right Side: Core Specialization & Teaching -->
-    <td style="vertical-align: top; width: 30%;">
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h2>🧑‍🔬 PhD Researcher 🇨🇭 </h2>
+      <ul>
+        <li>🎯 Specializing in <b>AI-powered Software Testing.</b></li>
+        <li>🏗 <b>Investigating Novel Approaches.</b></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <h2>🏆 Core Specialization</h2>
       <p>
         <img src="https://img.shields.io/badge/Contrastive%20Learning-%234CAF50.svg?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Test%20Case%20Generation-%23FF5733.svg?style=for-the-badge" /> 
-      </p>
-      <p>
+        <img src="https://img.shields.io/badge/Test%20Case%20Generation-%23FF5733.svg?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Mutation%20Testing-%23FF4081.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-        <img src="https://img.shields.io/badge/Fault%20Localization-%230A74DA.svg?style=for-the-badge&logo=logseq&logoColor=white" />     
+        <img src="https://img.shields.io/badge/Fault%20Localization-%230A74DA.svg?style=for-the-badge&logo=logseq&logoColor=white" />
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+      <h2>🔬 Recent Research</h2>
+      <p>[ Briefly describe your recent research interests or projects ]</p>
+    </td>
+    <td style="vertical-align: top; width: 50%;">
       <h2>🎓 Teaching</h2>
       <p><b>Assisting in the following courses at Università della Svizzera italiana (USI):</b></p>
       <ol>
-  <li>
-    📘 <b>Advanced Java Programming</b>
-    <ul>
-      <li>Dynamic Analysis, JVM Profiling</li>
-    </ul>
-  </li>
-  <li>
-    📘 <b>Data Structures & Algorithms</b>
-    <ul>
-      <li>Complexity Analysis,Algorithms</li>
-    </ul>
-  </li>
-</ol>
+        <li>
+          📘 <b>Advanced Java Programming</b>
+          <ul>
+            <li>Dynamic Analysis, JVM Profiling</li>
+          </ul>
+        </li>
+        <li>
+          📘 <b>Data Structures & Algorithms</b>
+          <ul>
+            <li>Complexity Analysis, Algorithms</li>
+          </ul>
+        </li>
+      </ol>
     </td>
   </tr>
 </table>
