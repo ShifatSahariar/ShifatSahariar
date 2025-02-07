@@ -1,11 +1,11 @@
 <table>
   <tr>
-    <td style="vertical-align: top; width: 50%;">
+    <td style="vertical-align: top; width: 70%;">
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DD0C&vCenter=true&width=435&lines=PhD+Researcher+in+Computer+Science;Software+Testing+Automation;%F0%9F%A4%96+Artificial+Intelligence" alt="Typing SVG" />
       </a>
     </td>
-    <td style="vertical-align: top; width: 50%; text-align: right;">
+    <td style="vertical-align: top; width: 30%; text-align: right;">
   <h4>Explore About Me</h4>  <p style="display: flex; justify-content: flex-end;"> <a href="https://www.linkedin.com/in/shifatsahariar/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" height="30" />  </a>
     <a href="https://www.youtube.com/@ShifatSahariar" target="_blank">
@@ -38,11 +38,11 @@
     </td>
   </tr>
   <tr>
-    <td style="vertical-align: top; width: 50%;">
-      <h2>🔬 Recent Research</h2>
-      <p>[ Briefly describe your recent research interests or projects ]</p>
-    </td>
-    <td style="vertical-align: top; width: 50%;">
+    <td style="vertical-align: top; width: 50%; display: flex; flex-direction: column;"> 
+  <h2>🔬 Recent Research</h2>
+  <p>[Briefly describe your recent research interests or projects]</p>
+</td>
+<td style="vertical-align: top; width: 50%; display: flex; flex-direction: column;">
       <h2>🎓 Teaching</h2>
       <p><b>Assisting in the following courses at Università della Svizzera italiana (USI):</b></p>
       <ol>
