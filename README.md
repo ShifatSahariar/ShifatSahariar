@@ -49,21 +49,15 @@
     </td>
     <td style="vertical-align: top; width: 50%; display: flex; flex-direction: column;">
       <h2>🎓 Teaching</h2>
-      <p><b>Assisting in the following courses at Università della Svizzera italiana (USI):</b></p>
       <ol>
         <li>
-          📘 <b>Advanced Java Programming</b>
-          <ul>
-            <li>Dynamic Analysis, JVM Profiling</li>
-          </ul>
+          📘 <b>Advanced Java Programming  MSc Course</b>
         </li>
         <li>
-          📘 <b>Data Structures & Algorithms</b>
-          <ul>
-            <li>Complexity Analysis, Algorithms</li>
-          </ul>
+          📘 <b>Data Structures & Algorithms - BSc Course</b>
         </li>
       </ol>
+       <p><b>Courses assist by me at Università della Svizzera italiana (USI):</b></p>
     </td>
   </tr>
 </table>
