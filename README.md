@@ -37,7 +37,7 @@
       <h2>🏆 Core Specialization</h2>
       <p class="badge-container">  <img src="https://img.shields.io/badge/Contrastive%20Learning-%234CAF50.svg?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Test%20Case%20Generation-%23FF5733.svg?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Mutation%20Testing-%23FF4081.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vector%20Embedding-%23FF4081.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" />
         <img src="https://img.shields.io/badge/Fault%20Localization-%230A74DA.svg?style=for-the-badge&logo=logseq&logoColor=white" />
       </p>
     </td>
