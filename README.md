@@ -51,10 +51,10 @@
       <h2>🎓 Teaching</h2>
       <ol>
         <li>
-          📘 <b>Advanced Java Programming  MSc Course</b>
+          📘 <b>Data Structures & Algorithms - BSc Course</b>
         </li>
         <li>
-          📘 <b>Data Structures & Algorithms - BSc Course</b>
+          📘 <b>Advanced Java Programming  MSc Course</b>
         </li>
       </ol>
        <p><b>Courses assist by me at Università della Svizzera italiana (USI):</b></p>
