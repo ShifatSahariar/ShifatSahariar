@@ -54,7 +54,7 @@
           📘 <b>Data Structures & Algorithms </b> - BSc Course
         </li>
         <li>
-          📘 <b>Advanced Java Programming e</b> - MSc Cours
+          📘 <b>Advanced Java Programming </b> - MSc Course
         </li>
       </ol>
        <p><b>Courses assist by me at Università della Svizzera italiana (USI):</b></p>
