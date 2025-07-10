@@ -2,7 +2,7 @@
   <tr>
     <td style="vertical-align: top; width: 80%;">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DD0C&vCenter=true&width=550&lines=PhD+Researcher+in+Computer+Science;Software+Testing+Automation;%F0%9F%A4%96+Artificial+Intelligence" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DD0C&vCenter=true&width=550&lines=PhD+Researcher+in+Computer+Science;AI-Driven+Software+Testing+Automation;%F0%9F%A4%96+Exploring+Agentic+AI+%26+Generative+Models" alt="Typing SVG" />
       </a>
     </td>
     <td style="vertical-align: top; width: 20%; text-align: right;">
@@ -23,53 +23,45 @@
       </p>
     </td>
   </tr>
+
   <tr>
     <td colspan="2">
-      <h2>🧑‍🔬 PhD Researcher 🇨🇭 </h2>
+      <h2>🧑‍🔬 PhD Researcher 🇨🇭</h2>
       <ul>
-        <li>🎯 Specializing in <b>AI-powered Software Testing.</b></li>
-        <li>🏗 <b>Investigating Novel Approaches.</b></li>
+        <li>🎯 Specializing in <b>AI-powered Software Testing</b> and <b>Test Automation</b>.</li>
+        <li>🚀 Exploring <b>Generative AI</b>, <b>Agentic AI</b>, and <b>Contrastive Learning</b>.</li>
+        <li>🔍 Passionate about <b>Building Practical Tools</b> for the future of AI Testing.</li>
       </ul>
     </td>
   </tr>
+
   <tr>
     <td colspan="2">
       <h2>🏆 Core Specialization</h2>
-      <p class="badge-container">  <img src="https://img.shields.io/badge/Contrastive%20Learning-%234CAF50.svg?style=for-the-badge" />
+      <p style="display: flex; flex-wrap: wrap; gap: 8px;">
+        <img src="https://img.shields.io/badge/Automated%20Software%20Testing-%234CAF50.svg?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Contrastive%20Learning-%2300B894.svg?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Test%20Case%20Generation-%23FF5733.svg?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Vector%20Embedding-%23FF4081.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-        <img src="https://img.shields.io/badge/Generative%20AI-%230A74DA.svg?style=for-the-badge&logo=logseq&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vector%20Embedding-%23D81B60.svg?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Generative%20AI-%230A74DA.svg?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Agentic%20AI-%23A569BD.svg?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/LLM%20Evaluation-%23E67E22.svg?style=for-the-badge" />
       </p>
     </td>
   </tr>
+
   <tr>
-    <td style="vertical-align: top; width: 50%; display: flex; flex-direction: column;">
+    <td style="vertical-align: top; width: 50%;">
       <h2>🔬 Recent Research</h2>
-      <p>Coming soon..</p>
+      <p>🧪 Coming soon: Benchmarking AI Tools for Fault Detection and Test Generation.</p>
     </td>
-    <td style="vertical-align: top; width: 50%; display: flex; flex-direction: column;">
+    <td style="vertical-align: top; width: 50%;">
       <h2>🎓 Teaching</h2>
       <ol>
-        <li>
-          📘 <b>Data Structures & Algorithms </b> - BSc
-        </li>
-        <li>
-          📘 <b>Advanced Java Programming </b> - MSc
-        </li>
+        <li>📘 <b>Data Structures & Algorithms</b> – BSc</li>
+        <li>📘 <b>Advanced Java Programming</b> – MSc</li>
       </ol>
-       <p><b>Courses assist by me at Università della Svizzera italiana (USI):</b></p>
+      <p><b>Courses assisted at Università della Svizzera italiana (USI).</b></p>
     </td>
   </tr>
 </table>
-
-<style>
-.badge-container {
-  display: flex;
-  animation: scroll 20s linear infinite;
-}
-
-@keyframes scroll {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-100%); }
-}
-</style>
