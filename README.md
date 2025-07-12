@@ -40,9 +40,8 @@
       <h2>🏆 Core Specialization</h2>
       <p style="display: flex; flex-wrap: wrap; gap: 8px;">
         <img src="https://img.shields.io/badge/Automated%20Software%20Testing-%234CAF50.svg?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Contrastive%20Learning-%2300B894.svg?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Test%20Case%20Generation-%23FF5733.svg?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Vector%20Embedding-%23D81B60.svg?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Contrastive%20Learning-%2300B894.svg?style=for-the-badge" />     
         <img src="https://img.shields.io/badge/Generative%20AI-%230A74DA.svg?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Agentic%20AI-%23A569BD.svg?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Neuro Symbolic%20AI-%23E67E22.svg?style=for-the-badge" />
