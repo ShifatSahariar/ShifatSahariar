@@ -45,7 +45,7 @@
         <img src="https://img.shields.io/badge/Vector%20Embedding-%23D81B60.svg?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Generative%20AI-%230A74DA.svg?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Agentic%20AI-%23A569BD.svg?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/LLM%20Evaluation-%23E67E22.svg?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Neuro Symbolic%20AI-%23E67E22.svg?style=for-the-badge" />
       </p>
     </td>
   </tr>
