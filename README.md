@@ -55,10 +55,12 @@
     <td style="vertical-align: top; width: 50%;">
       <h2>🎓 Teaching</h2>
       <ol>
+        <li>📘 <b>Machine Learning</b> – BSc</li>
+        <li>📘 <b>Introduction to Programming</b> – MSc</li>
         <li>📘 <b>Data Structures & Algorithms</b> – BSc</li>
         <li>📘 <b>Advanced Java Programming</b> – MSc</li>
       </ol>
-      <p><b>Courses assisted at Università della Svizzera italiana (USI).</b></p>
+      <p><b>Courses I Teach at Università della Svizzera italiana (USI).</b></p>
     </td>
   </tr>
 </table>
