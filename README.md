@@ -28,7 +28,7 @@
     <td colspan="2">
       <h2>🧑‍🔬 PhD Researcher 🇨🇭</h2>
       <ul>
-        <li>🎯 Specializing in <b>AI-powered Software Testing</b> and <b>Test Automation</b>.</li>
+        <li>🎯 Specializing in <b>AI-powered Software Testing</b>.</li>
         <li>🚀 Specializing in <b>Generative AI</b>, <b>Agentic AI</b>.</li>
         <li>🔍 Passionate about <b>Building Production Tools</b> for the future of AI Testing.</li>
       </ul>
