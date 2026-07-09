@@ -14,9 +14,9 @@
 
 ### PhD Researcher · Università della Svizzera italiana 🇨🇭
 
-**I build methods that tell you whether code — human- or AI-written — actually behaves correctly.**
 
-`mutation testing` · `behavioral embeddings` · `grammar-based generation` · `coding-agent evaluation`
+
+`behavioral embeddings` · `grammar-based generation` · `coding-agent evaluation`
 
 <br>
 
@@ -67,21 +67,21 @@
 <td align="center">—</td>
 </tr>
 
-<tr>
+<!-- <tr>
 <td><b>FAULTLENS</b><br><sub>Mutation-supervised contrastive embeddings for fault-revealing test prioritization</sub></td>
 <td align="center"><img src="https://img.shields.io/badge/ISSTA_/_FSE-C2185B?style=flat-square" /></td>
 <td align="center"><img src="https://img.shields.io/badge/In_Preparation-9E9E9E?style=flat-square" /></td>
 <td align="center"><code>2027</code></td>
 <td align="center">🔒</td>
-</tr>
+</tr> -->
 
-<tr>
+<!-- <tr>
 <td><b>OracleBench</b><br><sub>Behavior-grounded re-scoring of coding-agent patches</sub></td>
 <td align="center"><img src="https://img.shields.io/badge/Benchmark_Track-0A74DA?style=flat-square" /></td>
 <td align="center"><img src="https://img.shields.io/badge/In_Progress-FF9800?style=flat-square" /></td>
 <td align="center"><code>2027</code></td>
 <td align="center">🚧</td>
-</tr>
+</tr> -->
 
 </tbody>
 </table>
@@ -123,15 +123,15 @@ generation · differential & metamorphic testing · coding-agent benchmark valid
 </thead>
 <tbody>
 
-<tr>
+<!-- <tr>
 <td><b>OracleBench</b></td>
 <td>Re-scores "solved" coding-agent patches with behavior-grounded oracles — exposing how much leaderboard performance is illusory</td>
 <td><code>Python</code> <code>PyTorch</code> <code>Docker</code></td>
 <td align="center"><img src="https://img.shields.io/badge/AI_Evaluation-0A74DA?style=flat-square" /></td>
 <td align="center"><a href="[GAP → repo]">→</a></td>
-</tr>
+</tr> -->
 
-<tr>
+<!-- <tr>
 <td><b>FAULTLENS</b></td>
 <td>Learns behavioral embeddings from mutants to rank tests by fault-revealing power</td>
 <td><code>Python</code> <code>PyTorch</code> <code>PIT</code></td>
@@ -153,7 +153,7 @@ generation · differential & metamorphic testing · coding-agent benchmark valid
 <td><code>Python</code> <code>GitHub Actions</code></td>
 <td align="center"><img src="https://img.shields.io/badge/Developer_Tools-FF9800?style=flat-square" /></td>
 <td align="center">🚧</td>
-</tr>
+</tr> -->
 
 </tbody>
 </table>
